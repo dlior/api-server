@@ -1,0 +1,8 @@
+{
+  "kafka": {
+    "brokers": ["localhost:19092"],
+    "clientId": "api-server-client",
+    "groupId": "api-server-group",
+    "topic": "events"
+  }
+}
